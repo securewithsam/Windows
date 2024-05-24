@@ -2,6 +2,11 @@
 
 #### Open Command Prompt >Run as Admin 
 
+List All Time Zones with Their Names and Identifiers
+
+```sh tzutil /l
+```
+
 ```sh
 tzutil /s "Eastern Standard Time"
 ```

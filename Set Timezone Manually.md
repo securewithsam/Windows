@@ -4,7 +4,8 @@
 
 List All Time Zones with Their Names and Identifiers
 
-```sh tzutil /l
+```sh
+tzutil /l
 ```
 
 ```sh

@@ -29,7 +29,7 @@ New-NetFirewallRule -DisplayName "WinRM Secure" -Group "Windows Remote Managemen
   -Protocol TCP -LocalPort "5986" -Profile Public
 
 ```
-### you can test the connectivity to the target machine through PowerShell
+#### Test the connectivity to the target machine through PowerShell
 ```sh
 Test-NetConnection -ComputerName 192.168.90.50 -Port 5985
 ```

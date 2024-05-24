@@ -1,5 +1,5 @@
  ## Guide for setting up WinRM on target machines
-####Open Powershell >Run as Admin  (Run the below PowerShell script on a target machine to enable WinRM)
+#### Open Powershell >Run as Admin  (Run the below PowerShell script on a target machine to enable WinRM)
 
  ```sh
 # Enable WinRM
